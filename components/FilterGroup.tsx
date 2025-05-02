@@ -1,4 +1,4 @@
-import { Stack, Typography, Divider, Button, Box } from '@mui/material';
+import { Stack, Typography, Button, Box } from '@mui/material';
 import FilterCondition from './FilterCondition';
 
 export default function FilterGroup() {

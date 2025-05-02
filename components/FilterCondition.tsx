@@ -1,4 +1,4 @@
-import { Stack, IconButton, Select, MenuItem, SelectChangeEvent, ListItemIcon, ListItemText, Box } from '@mui/material';
+import { Stack, IconButton, Select, MenuItem, SelectChangeEvent, Box } from '@mui/material';
 import RemoveCircleOutlineIcon from '@mui/icons-material/RemoveCircleOutline';
 import { useState } from 'react';
 import TextIcon from './icons/TextIcon';
